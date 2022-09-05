@@ -1,0 +1,15 @@
+{
+  "clientToken": "88d32c0a-59fd-4b29-b229-8395a425b08e",
+  "accounts": {
+    "62ea431809fa4044a73e7b5cce0eb269": {
+      "username": "Pepe",
+      "userID": "Pepe",
+      "displayName": "Pepe",
+      "uuid": "62ea431809fa4044a73e7b5cce0eb269",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "62ea431809fa4044a73e7b5cce0eb269",
+  "freeAccountUUID": "62ea431809fa4044a73e7b5cce0eb269"
+}

@@ -1,0 +1,76 @@
+[Loading] INITIALIZING
+Starting TLauncher 2.86 RELEASE
+For more information, visit https://tlauncher.org/
+Startup time: 5/09/2022 05:14:04 PM
+Running folder C:\Users\jeymar.vega\Downloads
+---
+[Loading] LOADING_CONFIGURATION
+Machine info: -------------------------------------------------------
+Windows 10 10.0, Java 1.8.0_281, jvm bit x64, 16299 MB RAM
+java path=C:\Users\jeymar.vega\AppData\Roaming\.tlauncher\jvms\jre1.8.0_281\bin\javaw.exe
+-------------------------------------------------------
+Selected locale: es_ES
+[Loading] LOADING_CONSOLE
+[Downloader2] Loaded configuration: good
+[Updater] Requesting an update...
+[Updater] Requesting from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Updater] Making request: https://repo.tlauncher.org/update/lch/update_2.0.json?version=2.86&client=44610725-ac74-4ebf-a45a-6afd7629631b
+[Browser] Loading resources...
+[Updater] Request time: 478 ms
+[Updater] Successfully requested from: https://repo.tlauncher.org/update/lch/update_2.0.json
+[Browser] Loading background...
+[Browser] Cleaning up after loading:
+Starting garbage collector: 32 / 194 MB
+Garbage collector completed: 17 / 234 MB
+[Loading] LOADING_MANAGERS
+[LocalVersionList] Base directory: C:\Users\jeymar.vega\AppData\Roaming\.minecraft
+[ProfileManager] Refreshing profiles from: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\TlauncherProfiles.json
+file not exist TlauncherProfiles.json
+[AdvertisingStatusObserver]  started to get ad information
+[AdvertisingStatusObserver]  finished to get add information
+save profiles
+[Loading] LOADING_WINDOW
+[GsonUtil]  request to https://repo.tlauncher.org/update/downloads/libraries/org/tlauncher/authlib/libraries-1.7.json
+[Swing] Favicons loaded: 256px, 128px, 96px, 64px, 48px, 32px, 24px, 16px
+[Loading] PREPARING_MAINPANE
+[JFXStartPageLoader]  start load page: https://page.tlauncher.org/update/downloads/configs/client/index_es.htm
+[Browser] Running in JavaFX Thread
+[Browser] Preparing JavaFX...
+[Browser] Initializing...
+[REPO][SERVER_LIST_REPO] Success: Reached the repo in 164 ms.
+[Downloader2] Loaded configuration: good
+[JFXStartPageLoader]  succeeded load page: https://page.tlauncher.org/update/downloads/configs/client/index_es.htm during 1
+[Browser@744669058] Loaded successfully: "https://page.tlauncher.org/update/downloads/configs/client/index_es.htm"
+[Browser] add listens into server_choose
+[Browser] finished listens into server_choose
+[Loading] POSTINIT_GUI
+[Frame] Packing main frame...
+[Frame] Resizing main pane...
+Updater is already closed. Showing up...
+Visibility set.
+[Loading] REFRESHING_INFO
+[VersionManager] Refreshing versions remotely...
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+Started! (3142 ms.)
+[Loading] SUCCESS
+[TLauncher] show tlauncher!!!
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 95 ms.
+[REPO][SKIN_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/skin/versions/
+[REPO][OFFICIAL_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://launchermeta.mojang.com/mc/game/
+[REPO][EXTRA_VERSION_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/downloads/versions/new4/
+[REPO][SKIN_VERSION_REPO] Success: Reached the repo in 83 ms.
+[SkinVersionList] Got in 101 ms
+[REPO][OFFICIAL_VERSION_REPO] Success: Reached the repo in 209 ms.
+[OfficialVersionList] Got in 283 ms
+[REPO][EXTRA_VERSION_REPO] Success: Reached the repo in 352 ms.
+[ExtraVersionList] Got in 358 ms
+[VersionManager] Versions has been refreshed (361 ms)
+local server started
+[REPO][ADD_HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/additional_hot_servers-1.0.json
+[REPO][HOT_SERVERS_REPO] Attempt #1; timeout: 20000 ms; url: https://repo.tlauncher.org/update/lch/servers/hot_servers-1.0.json
+[REPO][ADD_HOT_SERVERS_REPO] Success: Reached the repo in 88 ms.
+[REPO][HOT_SERVERS_REPO] Success: Reached the repo in 104 ms.
+[Double running] clear time label
+Good bye!
+[Double running] clear time label
+flush now

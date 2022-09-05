@@ -1,0 +1,1064 @@
+[17:23:28] [main/INFO]: ModLauncher running: args [--username, Pepe, --version, 1.18.2-forge-40.1.0, --gameDir, C:\Users\jeymar.vega\AppData\Roaming\.minecraft, --assetsDir, C:\Users\jeymar.vega\AppData\Roaming\.minecraft\assets, --assetIndex, 1.18, --uuid, 62ea431809fa4044a73e7b5cce0eb269, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530, --launchTarget, forgeclient, --fml.forgeVersion, 40.1.0, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[17:23:28] [main/INFO]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.1 by Microsoft
+[17:23:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/jeymar.vega/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=CLIENT
+[17:23:29] [main/INFO]: Found mod file alexsmobs-1.18.6.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file balm-3.2.0+0.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file carryon-1.18.2-1.17.0.8 (1).jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file ChiselsBits-forge-1.18.2-1.2.114-universal.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file citadel-1.11.3-1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file comforts-forge-1.18.2-5.0.0.4.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file corpse-1.18.2-1.0.1.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file CreativeCore_FORGE_v2.6.12_mc1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file EasierSleeping-1.18.2-2.1.0.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file FarmersDelight-1.18.2-1.1.2.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file InventoryHud_[1.18].forge-3.4.4.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file inventorysorter-1.18-19.0.0.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file Jade-1.18.2-forge-5.2.3.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file jei-1.18.2-9.7.2.259.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file journeymap-1.18.2-5.8.5-forge.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.4.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file PlayerRevive_FORGE_v2.0.9_mc1.18.2.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file reap-1.18.2-1.0.0.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file sophisticatedbackpacks-1.18.2-3.18.24.704.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file sophisticatedcore-1.18.2-0.5.9.115.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file TerraBlender-forge-1.18.2-1.1.0.102.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file trashslot-forge-1.18.1-11.0.2.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file veinmining-forge-1.18.2-0.20.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file walljump-forge-1.18.1-1.3.7.jar of type MOD with locator {mods folder locator at C:\Users\jeymar.vega\AppData\Roaming\.minecraft\mods}
+[17:23:29] [main/INFO]: Found mod file fmlcore-1.18.2-40.1.0.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7577b641
+[17:23:29] [main/INFO]: Found mod file javafmllanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7577b641
+[17:23:29] [main/INFO]: Found mod file mclanguage-1.18.2-40.1.0.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7577b641
+[17:23:29] [main/INFO]: Found mod file client-1.18.2-20220404.173914-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7577b641
+[17:23:29] [main/INFO]: Found mod file forge-1.18.2-40.1.0-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@7577b641
+[17:23:30] [main/INFO]: Compatibility level set to JAVA_17
+[17:23:30] [main/INFO]: Launching target 'forgeclient' with arguments [--version, 1.18.2-forge-40.1.0, --gameDir, C:\Users\jeymar.vega\AppData\Roaming\.minecraft, --assetsDir, C:\Users\jeymar.vega\AppData\Roaming\.minecraft\assets, --uuid, 62ea431809fa4044a73e7b5cce0eb269, --username, Pepe, --assetIndex, 1.18, --accessToken, ????????, --clientId, ${clientid}, --xuid, ${auth_xuid}, --userType, mojang, --versionType, release, --width, 925, --height, 530]
+[17:23:35] [Render thread/WARN]: Assets URL 'union:/C:/Users/jeymar.vega/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2377!/assets/.mcassetsroot' uses unexpected schema
+[17:23:35] [Render thread/WARN]: Assets URL 'union:/C:/Users/jeymar.vega/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar%2377!/data/.mcassetsroot' uses unexpected schema
+[17:23:35] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:23:35] [Render thread/INFO]: Setting user: Pepe
+[17:23:36] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[17:23:38] [modloading-worker-0/INFO]: Forge mod loading, version 40.1.0, for MC 1.18.2 with MCP 20220404.173914
+[17:23:38] [modloading-worker-0/INFO]: MinecraftForge v40.1.0 Initialized
+[17:23:38] [modloading-worker-0/INFO]: Loaded block entity configuration.
+[17:23:38] [modloading-worker-0/INFO]: Loaded block configuration.
+[17:23:38] [modloading-worker-0/INFO]: Loaded chisel mode group configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded chisel mode configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded container type configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded item group configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded item configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded metadata key configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded model property configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded modification operation configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded modification operation group configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded pattern placement type configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded recipe serializer configuration.
+[17:23:39] [modloading-worker-0/INFO]: Loaded tag configuration.
+[17:23:39] [modloading-worker-0/INFO]: Found and loaded ChiselsAndBits plugin: jei
+[17:23:39] [modloading-worker-0/INFO]: Loaded JEI Compatibility configuration
+[17:23:42] [Render thread/INFO]: Registering recipe types.
+[17:23:42] [Render thread/WARN]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[17:23:42] [Render thread/WARN]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[17:23:43] [Render thread/INFO]: loaded in block colorizer
+[17:23:43] [Render thread/INFO]: Setting up client reloading resource manager.
+[17:23:43] [Render thread/INFO]: loaded in item colorizer
+[17:23:43] [Render thread/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\growing-patterns.json5" was read.
+[17:23:43] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[17:23:44] [Render thread/INFO]: Reloading ResourceManager: Default, Mod Resources
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\farmersdelight-client.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key client.nourishmentHungerOverlay was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key client.comfortHealthOverlay was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key client.foodEffectTooltip was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\sophisticatedcore-client.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key client.sortButtonsPosition was corrected from null to its default, TITLE_LINE_RIGHT. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key client.playButtonSound was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\jei-client.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key advanced was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key advanced.DebugMode was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key advanced.CenterSearch was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key advanced.LowMemorySlowSearchEnabled was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key advanced.CheatToHotbarUsingHotkeysEnabled was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key advanced.GiveMode was corrected from null to its default, MOUSE_PICKUP. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key advanced.RecipeGuiHeight was corrected from null to its default, 350. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key colors was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key colors.SearchColors was corrected from null to its default, [White:EEEEEE, LightBlue:7492cc, Cyan:00EEEE, Blue:2222dd, LapisBlue:25418b, Teal:008080, Yellow:cacb58, GoldenYellow:EED700, Orange:d97634, Pink:D1899D, HotPink:FC0FC0, Magenta:b24bbb, Purple:813eb9, JadedPurple:43324f, EvilPurple:2e1649, Lavender:B57EDC, Indigo:480082, Sand:dbd3a0, Tan:bb9b63, LightBrown:A0522D, Brown:634b33, DarkBrown:3a2d13, LimeGreen:43b239, SlimeGreen:83cb73, Green:008000, DarkGreen:224d22, GrassGreen:548049, Red:963430, BrickRed:b0604b, NetherBrick:2a1516, Redstone:ce3e36, Black:181515, CharcoalGray:464646, IronGray:646464, Gray:808080, Silver:C0C0C0]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key sorting was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key sorting.IngredientSortStages was corrected from null to its default, [MOD_NAME, INGREDIENT_TYPE, CREATIVE_MENU]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search.ModNameSearchMode was corrected from null to its default, REQUIRE_PREFIX. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search.TooltipSearchMode was corrected from null to its default, ENABLED. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search.TagSearchMode was corrected from null to its default, REQUIRE_PREFIX. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search.CreativeTabSearchMode was corrected from null to its default, DISABLED. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search.ColorSearchMode was corrected from null to its default, DISABLED. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search.ResourceLocationSearchMode was corrected from null to its default, DISABLED. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key search.SearchAdvancedTooltips was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key modname was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key modname.ModNameFormat was corrected from null to its default, blue italic. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key IngredientList was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key IngredientList.MaxRows was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key IngredientList.MaxColumns was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key IngredientList.HorizontalAlignment was corrected from null to its default, RIGHT. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key IngredientList.VerticalAlignment was corrected from null to its default, TOP. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key IngredientList.ButtonNavigationVisibility was corrected from null to its default, ENABLED. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key IngredientList.DrawBackground was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key BookmarkList was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key BookmarkList.MaxRows was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key BookmarkList.MaxColumns was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key BookmarkList.HorizontalAlignment was corrected from null to its default, LEFT. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key BookmarkList.VerticalAlignment was corrected from null to its default, TOP. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key BookmarkList.ButtonNavigationVisibility was corrected from null to its default, ENABLED. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key BookmarkList.DrawBackground was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\inventoryhud-client.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventoryhud was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventoryhud.invMini was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventoryhud.invVert was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventoryhud.invAlpha was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventoryhud.byDefault was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventoryhud.animatedInv was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventoryhud.hideBackground was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.ArmorDamage was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.armAbove was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.showArmor was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.showMain was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.showOff was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.showArrows was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.showInv was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.armView was corrected from null to its default, PERCENTAGE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.armBars was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.moveAll was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.showEmpty was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.showCount was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key armorhud.armScale was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key potionshud was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key potionshud.Potions was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key potionshud.potAlpha was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key potionshud.potGap was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key potionshud.potMini was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key potionshud.potHor was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key potionshud.barDuration was corrected from null to its default, 300. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.invValign was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.invHalign was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.xPos was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.yPos was corrected from null to its default, 150. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.armValign was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.armHalign was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.xArmPos was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.yArmPos was corrected from null to its default, 70. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.potValign was corrected from null to its default, TOP. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.potHalign was corrected from null to its default, LEFT. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.xPotionPos was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.yPotionPos was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.helmPosX was corrected from null to its default, 103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.helmPosY was corrected from null to its default, 54. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.chestPosX was corrected from null to its default, 103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.chestPosY was corrected from null to its default, 37. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.legPosX was corrected from null to its default, -103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.legPosY was corrected from null to its default, 54. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.bootPosX was corrected from null to its default, -103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.bootPosY was corrected from null to its default, 37. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.mainPosX was corrected from null to its default, 103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.mainPosY was corrected from null to its default, 71. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.offPosX was corrected from null to its default, -103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.offPosY was corrected from null to its default, 71. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.arrPosX was corrected from null to its default, 103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.arrPosY was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.invPosX was corrected from null to its default, -103. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.invPosY was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.helmHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.helmVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.chestHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.chestVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.legHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.legVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.bootHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.bootVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.mainHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.mainVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.offHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.offVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.arrHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.arrVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.invHal was corrected from null to its default, MIDDLE. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key positions.invVal was corrected from null to its default, BOTTOM. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\carryon-client.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.facePlayer was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.renderArms was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key modeloverrides was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key modeloverrides.overrides was corrected from null to its default, [minecraft:hopper->(block)minecraft:hopper, minecraft:comparator->(block)minecraft:comparator, minecraft:repeater->(block)minecraft:repeater, minecraft:cauldron->(block)minecraft:cauldron, minecraft:brewing_stand->(item)minecraft:brewing_stand, minecraft:flower_pot->(block)minecraft:flower_pot, minecraft:sugar_cane->(block)minecraft:sugar_cane, minecraft:redstone_wire->(item)minecraft:redstone, animania:block_nest->(block)animania:block_nest, animania:cheese_mold;0->(block)animania:cheese_mold;0, animania:cheese_mold;1->(block)animania:cheese_mold;1, animania:cheese_mold;2->(block)animania:cheese_mold;2, animania:cheese_mold;3->(block)animania:cheese_mold;3, animania:cheese_mold;4->(block)animania:cheese_mold;4, animania:cheese_mold;5->(block)animania:cheese_mold;5, animania:cheese_mold;6->(block)animania:cheese_mold;6, animania:cheese_mold;7->(block)animania:cheese_mold;7, animania:cheese_mold;8->(block)animania:cheese_mold;8, animania:cheese_mold;9->(block)animania:cheese_mold;9, animania:cheese_mold;10->(block)animania:cheese_mold;10]. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\veinmining-client.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key vein mining was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key vein mining.activationState was corrected from null to its default, STANDING. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key vein mining.activationStateWithoutEnchantment was corrected from null to its default, KEYBINDING. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\chiselsandbits-client.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.bit-bag was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.bit-bag.invert-durability-bar-indication was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement.render-mode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement.render-mode.success was corrected from null to its default, GHOST_BLOCK_MODEL. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement.render-mode.failed was corrected from null to its default, GHOST_BLOCK_MODEL_SOLID_COLOR. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement.color was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement.color.success was corrected from null to its default, [0.1882352977991104, 0.47058823704719543, 0.7882353067398071, 0.7058823704719543]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement.color.not-fitting was corrected from null to its default, [0.7176470756530762, 0.2549019753932953, 0.054901961237192154, 0.7058823704719543]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.placement.color.missing-bits-or-space was corrected from null to its default, [1.0, 0.8588235378265381, 0.3450980484485626, 0.7058823704719543]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.default was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.default.colors was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.default.colors.chiseling was corrected from null to its default, [0.8500000238418579, 0.0, 0.0, 0.6499999761581421]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.default.colors.placement was corrected from null to its default, [0.0, 0.8500000238418579, 0.0, 0.6499999761581421]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.renderer was corrected from null to its default, chiselsandbits:default. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.debug was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.debug.enabled was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.debug.mutator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.debug.mutator.colors was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.debug.mutator.colors.chiseling was corrected from null to its default, [0.0, 0.0, 0.8500000238418579, 0.6499999761581421]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.chiseling-previews.debug.mutator.colors.placement was corrected from null to its default, [0.8500000238418579, 0.8500000238418579, 0.0, 0.6499999761581421]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.selected-tool-mode-icons was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.selected-tool-mode-icons.renderer was corrected from null to its default, chiselsandbits:group. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.invert-pick-block-behaviour was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.clipboard was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.clipboard.size was corrected from null to its default, 64. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.clipboard.add-broken-blocks was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.clipboard.add-picked-blocks was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.patterns was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.patterns.export-path was corrected from null to its default, ./chiselsandbits/patterns. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches.sizes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches.sizes.bit-storage-content-models was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches.sizes.block-models was corrected from null to its default, 10000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches.sizes.block-faces was corrected from null to its default, 1000000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches.sizes.stack-models was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.lighting was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.lighting.extract-lighting-values-from-faces was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.lighting.extract-lighting-values-from-blockstates was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.model-building was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.model-building.thread-count was corrected from null to its default, 6. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key gui was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key gui.radial-menu was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key gui.radial-menu.display-mouse-indicator was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\farmersdelight-common.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.enableVanillaCropCrates was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.farmersBuyFDCrops was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.wanderingTraderSellsFDItems was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.richSoilBoostChance was corrected from null to its default, 0.2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.cuttingBoardFortuneBonus was corrected from null to its default, 0.1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key settings.canvasSignDarkBackgroundList was corrected from null to its default, [gray, purple, blue, brown, green, red, black]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides.vanillaSoupExtraEffects was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides.rabbitStewJumpBoost was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides.dispenserUsesToolsOnCuttingBoard was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides.stack_size was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides.stack_size.enableStackableSoupItems was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides.stack_size.soupItemList was corrected from null to its default, [minecraft:mushroom_stew, minecraft:beetroot_soup, minecraft:rabbit_stew]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key overrides.stack_size.overrideAllSoupItems was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.generateFDChestLoot was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.genVillageCompostHeaps was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_cabbages was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_cabbages.genWildCabbages was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_cabbages.chance was corrected from null to its default, 30. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_beetroots was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_beetroots.genWildBeetroots was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_beetroots.chance was corrected from null to its default, 30. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_potatoes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_potatoes.genWildPotatoes was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_potatoes.chance was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_carrots was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_carrots.genWildCarrots was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_carrots.chance was corrected from null to its default, 120. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_onions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_onions.genWildOnions was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_onions.chance was corrected from null to its default, 120. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_tomatoes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_tomatoes.genWildTomatoes was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_tomatoes.chance was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_rice was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_rice.genWildRice was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key world.wild_rice.chance was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\jade-addons.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventory was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventory.sneakShowAmount was corrected from null to its default, 54. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventory.normalShowAmount was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventory.showItemPreLine was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventory.blacklist was corrected from null to its default, [refinedstorage:disk_drive]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key inventory.bypassLockedContainer was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key customContainerName was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key customContainerName.onlyShowVanilla was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key customContainerName.blacklist was corrected from null to its default, [thermal]. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\sophisticatedcore-common.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.enabledItems was corrected from null to its default, []. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\walljump-common.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.allowReClinging was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoRotation was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.elytraSpeedBoost was corrected from null to its default, 0.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.enableEnchantments was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.exhaustionWallJump was corrected from null to its default, 0.8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.minFallDistance was corrected from null to its default, 7.5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.playFallSound was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.sprintSpeedBoost was corrected from null to its default, 0.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.stepAssist was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.useDoubleJump was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.useWallJump was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.wallJumpHeight was corrected from null to its default, 0.55. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.wallSlideDelay was corrected from null to its default, 15. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\trashslot-common.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key instantDeletion was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\citadel-common.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.Track Entities was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.chunkGenSpawnModifier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\sophisticatedbackpacks-common.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.disallowedItems was corrected from null to its default, []. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.leatherBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.leatherBackpack.inventorySlotCount was corrected from null to its default, 27. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.leatherBackpack.upgradeSlotCount was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.ironBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.ironBackpack.inventorySlotCount was corrected from null to its default, 54. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.ironBackpack.upgradeSlotCount was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.goldBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.goldBackpack.inventorySlotCount was corrected from null to its default, 81. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.goldBackpack.upgradeSlotCount was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.diamondBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.diamondBackpack.inventorySlotCount was corrected from null to its default, 108. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.diamondBackpack.upgradeSlotCount was corrected from null to its default, 5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.netheriteBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.netheriteBackpack.inventorySlotCount was corrected from null to its default, 120. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.netheriteBackpack.upgradeSlotCount was corrected from null to its default, 7. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.compactingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.compactingUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.compactingUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedCompactingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedCompactingUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedCompactingUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.depositUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.depositUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.depositUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedDepositUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedDepositUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedDepositUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.feedingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.feedingUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.feedingUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedFeedingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedFeedingUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedFeedingUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.filterUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.filterUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.filterUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedFilterUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedFilterUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedFilterUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.magnetUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.magnetUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.magnetUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.magnetUpgrade.magnetRange was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedMagnetUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedMagnetUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedMagnetUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedMagnetUpgrade.magnetRange was corrected from null to its default, 5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.pickupUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.pickupUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.pickupUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedPickupUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedPickupUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedPickupUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.refillUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.refillUpgrade.filterSlots was corrected from null to its default, 6. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.refillUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.restockUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.restockUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.restockUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedRestockUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedRestockUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedRestockUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.voidUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.voidUpgrade.filterSlots was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.voidUpgrade.slotsInRow was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.voidUpgrade.voidAnythingEnabled was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedVoidUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedVoidUpgrade.filterSlots was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedVoidUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.advancedVoidUpgrade.voidAnythingEnabled was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.stackUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.stackUpgrade.nonStackableItems was corrected from null to its default, []. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.smeltingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.smeltingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.smeltingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.smokingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.smokingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.smokingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.blastingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.blastingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.blastingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmeltingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmeltingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmeltingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmeltingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmeltingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmeltingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmeltingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmokingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmokingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmokingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmokingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmokingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmokingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoSmokingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoBlastingUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoBlastingUpgrade.smeltingSpeedMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoBlastingUpgrade.fuelEfficiencyMultiplier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoBlastingUpgrade.inputFilterSlots was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoBlastingUpgrade.inputFilterSlotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoBlastingUpgrade.fuelFilterSlots was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.autoBlastingUpgrade.fuelFilterSlotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.inceptionUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.inceptionUpgrade.upgradesUseInventoriesOfBackpacksInBackpack was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.inceptionUpgrade.upgradesInContainedBackpacksAreFunctional was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.toolSwapperUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.toolSwapperUpgrade.filterSlots was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.toolSwapperUpgrade.slotsInRow was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.tankUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.tankUpgrade.capacityPerSlotRow was corrected from null to its default, 4000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.tankUpgrade.stackMultiplierRatio was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.tankUpgrade.autoFillDrainContainerCooldown was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.tankUpgrade.maxInputOutput was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.tankUpgrade.energyPerSlotRow was corrected from null to its default, 10000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.pumpUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.pumpUpgrade.filterSlots was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.pumpUpgrade.maxInputOutput was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.pumpUpgrade.stackMultiplierRatio was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.xpPumpUpgrade was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.xpPumpUpgrade.mendingOn was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.xpPumpUpgrade.maxXpPointsPerMending was corrected from null to its default, 5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.chance was corrected from null to its default, 0.01. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.addLoot was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.buffWithPotionEffects was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.buffHealth was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.equipWithArmor was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.entityLootTableList was corrected from null to its default, [minecraft:creeper|minecraft:chests/desert_pyramid, minecraft:drowned|minecraft:chests/shipwreck_treasure, minecraft:enderman|minecraft:chests/end_city_treasure, minecraft:evoker|minecraft:chests/woodland_mansion, minecraft:husk|minecraft:chests/desert_pyramid, minecraft:piglin|minecraft:chests/bastion_bridge, minecraft:piglin_brute|minecraft:chests/bastion_treasure, minecraft:pillager|minecraft:chests/pillager_outpost, minecraft:skeleton|minecraft:chests/simple_dungeon, minecraft:stray|minecraft:chests/igloo_chest, minecraft:vex|minecraft:chests/woodland_mansion, minecraft:vindicator|minecraft:chests/woodland_mansion, minecraft:witch|minecraft:chests/buried_treasure, minecraft:wither_skeleton|minecraft:chests/nether_bridge, minecraft:zombie|minecraft:chests/simple_dungeon, minecraft:zombie_villager|minecraft:chests/village/village_armorer, minecraft:zombified_piglin|minecraft:chests/bastion_other]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.discBlockList was corrected from null to its default, [botania:record_gaia_1, botania:record_gaia_2]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.playJukebox was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.dropToFakePlayers was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.backpackDropChance was corrected from null to its default, 0.085. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.entityBackpackAdditions.lootingChanceIncreasePerLevel was corrected from null to its default, 0.01. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.nerfs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.nerfs.tooManyBackpacksSlowness was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.nerfs.maxNumberOfBackpacks was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.nerfs.slownessLevelsPerAdditionalBackpack was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.nerfs.onlyWornBackpackTriggersUpgrades was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.chestLootEnabled was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.itemFluidHandlerEnabled was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.allowOpeningOtherPlayerBackpacks was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key common.itemDisplayDisabled was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\chiselsandbits-common.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key help was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key help.enabled-in-tooltips was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches.sizes was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.caches.sizes.collision-boxes was corrected from null to its default, 10000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.saving was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key performance.saving.thread-count was corrected from null to its default, 6. 
+[17:23:44] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\alexsmobs.toml is not correct. Correcting
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.giveBookOnStartup was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.lavaVisionOpacity was corrected from null to its default, 0.65. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.shadersCompat was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.bananasDropFromLeaves was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.bananaChance was corrected from null to its default, 200. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spidersAttackFlies was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.wolvesAttackMoose was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.polarBearsAttackSeals was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.catsAndFoxesAttackJerboas was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.dolphinsAttackFlyingFish was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.lavaBottleEnabled was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.neutralBoneSerpents was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.caveCentipedeSpawnHeight was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.blobfishSpawnHeight was corrected from null to its default, 25. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.mimicubeSpawnInEndCity was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.mimicreamRepair was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.mimicreamBlacklist was corrected from null to its default, [alexsmobs:blood_sprayer, alexsmobs:hemolymph_blaster]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.raccoonStealFromChests was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.fishOilMeme was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.soulVultureSpawnOnFossil was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.acaciaBlossomsDropFromLeaves was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.wanderingTraderOffers was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.mungusBiomeTransformationType was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.mungusBiomeMatches was corrected from null to its default, [minecraft:red_mushroom|minecraft:mushroom_fields|minecraft:mycelium, minecraft:brown_mushroom|minecraft:mushroom_fields|minecraft:mycelium, minecraft:crimson_fungus|minecraft:crimson_forest|minecraft:crimson_nylium, minecraft:warped_fungus|minecraft:warped_forest|minecraft:warped_nylium]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.limitGusterSpawnsToWeather was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.warpedMoscoTransformation was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.warpedMoscoMobTriggers was corrected from null to its default, []. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.straddleboardEnchants was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.emuTargetSkeletons was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.emuPantsDodgeChance was corrected from null to its default, 0.45. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.cachalotDestruction was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.cachalotVolume was corrected from null to its default, 3.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.leafcutterAntFungusGrowChance was corrected from null to its default, 0.3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.leafcutterAntRepopulateFeedings was corrected from null to its default, 25. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.leafcutterAntColonySize was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.leafcutterAntBreakLeavesChance was corrected from null to its default, 0.2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.falconryTeleportsBack was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.fireproofTarantulaHawk was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.voidWormSpawnDimensions was corrected from null to its default, [minecraft:the_end]. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.voidWormDamageModifier was corrected from null to its default, 1.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.voidWormMaxHealth was corrected from null to its default, 160.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.voidWormSummonable was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.seagullStealing was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.seagullStealingBlacklist was corrected from null to its default, []. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.clingingFlipEffect was corrected from null to its default, false. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.tusklinShoesBarteringChance was corrected from null to its default, 0.02500000037252903. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.rainbowGlassFidelity was corrected from null to its default, 16.0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.bunfungusTransformation was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.addLootToChests was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.grizzlyBearSpawnWeight was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.grizzlyBearSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.roadrunnerSpawnWeight was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.roadrunnerSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.boneSerpentSpawnWeight was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.boneSeprentSpawnRolls was corrected from null to its default, 40. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.gazelleSpawnWeight was corrected from null to its default, 40. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.gazelleSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.crocodileSpawnWeight was corrected from null to its default, 40. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.crocSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.flySpawnWeight was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.flySpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.hummingbirdSpawnWeight was corrected from null to its default, 19. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.hummingbirdSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.orcaSpawnWeight was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.orcaSpawnRolls was corrected from null to its default, 6. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.sunbirdSpawnWeight was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.sunbirdSpawnRolls was corrected from null to its default, 15. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.gorillaSpawnWeight was corrected from null to its default, 50. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.gorillaSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.crimsonMosquitoSpawnWeight was corrected from null to its default, 15. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.crimsonMosquitoSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.rattlesnakeSpawnWeight was corrected from null to its default, 12. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.rattlesnakeSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.endergradeSpawnWeight was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.endergradeSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.hammerheadSharkSpawnWeight was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.hammerheadSharkSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.lobsterSpawnWeight was corrected from null to its default, 7. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.lobsterSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.komodoDragonSpawnWeight was corrected from null to its default, 16. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.komodoDragonSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.capuchinMonkeySpawnWeight was corrected from null to its default, 55. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.capuchinMonkeySpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.caveCentipedeSpawnWeight was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.caveCentipedeSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.warpedToadSpawnWeight was corrected from null to its default, 80. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.warpedToadSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mooseSpawnWeight was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mooseSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mimicubeSpawnWeight was corrected from null to its default, 40. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mimicubeSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.raccoonSpawnWeight was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.raccoonSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.blobfishSpawnWeight was corrected from null to its default, 30. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.blobfishSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.sealSpawnWeight was corrected from null to its default, 30. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.sealSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cockroachSpawnWeight was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cockroachSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.shoebillSpawnWeight was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.shoebillSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.elephantSpawnWeight was corrected from null to its default, 30. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.elephantSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.soulVultureSpawnWeight was corrected from null to its default, 30. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.soulVultureSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.snowLeopardSpawnWeight was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.snowLeopardSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.spectreSpawnWeight was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.spectreSpawnRolls was corrected from null to its default, 5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.crowSpawnWeight was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.crowSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.alligatorSnappingTurtleSpawnWeight was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.alligatorSnappingTurtleSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mungusSpawnWeight was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mungusSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mantisShrimpSpawnWeight was corrected from null to its default, 15. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mantisShrimpSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.gusterSpawnWeight was corrected from null to its default, 35. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.gusterSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.warpedMoscoSpawnWeight was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.warpedMoscoSpawnRolls was corrected from null to its default, 1000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.straddlerSpawnWeight was corrected from null to its default, 85. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.straddlerSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.stradpoleSpawnWeight was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.stradpoleSpawnRolls was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.emuSpawnWeight was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.emuSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.platypusSpawnWeight was corrected from null to its default, 30. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.platypusSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.dropbearSpawnWeight was corrected from null to its default, 19. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.dropbearSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tasmanianDevilSpawnWeight was corrected from null to its default, 10. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tasmanianDevilSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.kangarooSpawnWeight was corrected from null to its default, 25. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.kangarooSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cachalotWhaleSpawnWeight was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cachalotWhaleSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.enderiophageSpawnWeight was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.enderiophageSpawnRolls was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.baldEagleSpawnWeight was corrected from null to its default, 15. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.baldEagleSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tigerSpawnWeight was corrected from null to its default, 100. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tigerSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tarantulaHawkSpawnWeight was corrected from null to its default, 6. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tarantulaHawkSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.voidWormSpawnWeight was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.voidWormSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.frilledSharkSpawnWeight was corrected from null to its default, 11. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.frilledSharkSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mimicOctopusSpawnWeight was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.mimicOctopusSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.seagullSpawnWeight was corrected from null to its default, 21. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.seagullSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.froststalkerSpawnWeight was corrected from null to its default, 20. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.froststalkerSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tusklinSpawnWeight was corrected from null to its default, 18. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.tusklinSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.laviathanSpawnWeight was corrected from null to its default, 15. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.laviathanSpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cosmawSpawnWeight was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cosmawSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.toucanSpawnWeight was corrected from null to its default, 23. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.toucanSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.manedWolfSpawnWeight was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.manedWolfSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.anacondaSpawnWeight was corrected from null to its default, 12. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.anacondaSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.anteaterSpawnWeight was corrected from null to its default, 7. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.anteaterSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.rockyRollerSpawnWeight was corrected from null to its default, 40. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.rockyRollerSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.flutterSpawnWeight was corrected from null to its default, 13. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.flutterSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.geladaMonkeySpawnWeight was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.geladaMonkeySpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.jerboaSpawnWeight was corrected from null to its default, 12. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.jerboaSpawnRolls was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.terrapinSpawnWeight was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.terrapinSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.combJellySpawnWeight was corrected from null to its default, 5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.combJellySpawnRolls was corrected from null to its default, 1. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cosmicCodSpawnWeight was corrected from null to its default, 5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.cosmicCodSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.bunfungusSpawnWeight was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.bunfungusSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.bisonSpawnWeight was corrected from null to its default, 9. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.bisonSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.giantSquidSpawnWeight was corrected from null to its default, 3. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.giantSquidSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.devilsHolePupfishSpawnWeight was corrected from null to its default, 23. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.devilsHolePupfishSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.catfishSpawnWeight was corrected from null to its default, 4. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.catfishSpawnRolls was corrected from null to its default, 2. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.flyingFishSpawnWeight was corrected from null to its default, 8. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.flyingFishSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.skelewagSpawnWeight was corrected from null to its default, 15. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.skelewagSpawnRolls was corrected from null to its default, 0. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.beachedCachalotWhales was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.beachedCachalotWhaleSpawnChance was corrected from null to its default, 5. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.beachedCachalotWhaleSpawnDelay was corrected from null to its default, 24000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.leafcutterAnthillSpawnChance was corrected from null to its default, 0.004999999888241291. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.restrictPupfishSpawns was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.pupfishChunkSpawnDistance was corrected from null to its default, 2000. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.restrictSkelewagSpawns was corrected from null to its default, true. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.dangerZone was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:44] [modloading-worker-0/WARN]: Incorrect key general.spawning.uniqueSpawning.dangerZone.superSecretSettings was corrected from null to its default, false. 
+[17:23:45] [modloading-worker-0/WARN]: Configuration file C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\chiselsandbits-client-compat-jei.toml is not correct. Correcting
+[17:23:45] [modloading-worker-0/WARN]: Incorrect key compat was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:45] [modloading-worker-0/WARN]: Incorrect key compat.jei was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17:23:45] [modloading-worker-0/WARN]: Incorrect key compat.jei.inject-bits was corrected from null to its default, true. 
+[17:23:45] [Worker-Main-20/INFO]: No plugins for JourneyMap API discovered.
+[17:23:46] [Worker-Main-21/INFO]: BYG: "Common Setup" Event Complete!
+[17:23:46] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\end-biomes.json5" was read.
+[17:23:46] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\nether-biomes.json5" was read.
+[17:23:46] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[17:23:46] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\overworld\byg-overworld-biomes.json5" was read.
+[17:23:46] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\byg-biome-dictionary.json" was read.
+[17:23:46] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\surface_rules\end_surface_rules.json5" was read.
+[17:23:47] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\surface_rules\nether_surface_rules.json5" was read.
+[17:23:47] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\surface_rules\overworld_surface_rules.json5" was read.
+[17:23:47] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\trades.json5" was read.
+[17:23:47] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\settings.json5" was read.
+[17:23:47] [Worker-Main-21/INFO]: "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\biomepedia.json5" was read.
+[17:23:47] [Worker-Main-21/INFO]: Created compressed zip back up for "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg" in "C:\Users\jeymar.vega\AppData\Roaming\.minecraft\config\byg\backups\last_working_configs_backup.zip"
+[17:23:47] [Render thread/INFO]: Initializing Packet Registries
+[17:23:47] [Render thread/INFO]: Initializing BYG network...
+[17:23:47] [Render thread/INFO]: Initialized BYG network!
+[17:23:47] [Render thread/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[17:23:47] [Render thread/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[17:23:47] [Render thread/INFO]: Registered region byg:region_0 to index 1 for type OVERWORLD
+[17:23:47] [Render thread/INFO]: Registered region byg:region_1 to index 2 for type OVERWORLD
+[17:23:47] [Render thread/INFO]: Registered region byg:region_2 to index 3 for type OVERWORLD
+[17:23:47] [Render thread/INFO]: Registered region byg:region_3 to index 4 for type OVERWORLD
+[17:23:47] [Worker-Main-15/INFO]: BYG: "Client Setup" Event Complete!
+[17:23:47] [Worker-Main-23/INFO]: Loading chisels and bits client
+[17:23:47] [Render thread/INFO]: Journeymap Initializing
+[17:23:47] [Render thread/INFO]: JourneyMap log initialized.
+[17:23:47] [Render thread/INFO]: initialize ENTER
+[17:23:47] [Render thread/INFO]: [ClientAPI] built with JourneyMap API 1.8-SNAPSHOT
+[17:23:47] [Render thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[17:23:47] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.18.2-1.0.0 Target: null
+[17:23:47] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[17:23:48] [Render thread/INFO]: core (FirstLoaded) Setting config file to version "5.8.5": journeymap.core.config
+[17:23:48] [Render thread/INFO]: core (Valid) Creating config file: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\config\5.8\journeymap.core.config
+[17:23:48] [Render thread/INFO]: fullmap (FirstLoaded) Setting config file to version "5.8.5": journeymap.fullmap.config
+[17:23:48] [Render thread/INFO]: fullmap (Valid) Creating config file: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\config\5.8\journeymap.fullmap.config
+[17:23:48] [Render thread/INFO]: minimap (Initialized) Setting config file to version "5.8.5": journeymap.minimap.config
+[17:23:48] [Render thread/INFO]: minimap (Valid) Creating config file: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\config\5.8\journeymap.minimap.config
+[17:23:48] [Render thread/INFO]: minimap2 (FirstLoaded) Setting config file to version "5.8.5": journeymap.minimap2.config
+[17:23:48] [Render thread/INFO]: minimap2 (Valid) Creating config file: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\config\5.8\journeymap.minimap2.config
+[17:23:48] [Render thread/INFO]: topo (FirstLoaded) Setting config file to version "5.8.5": journeymap.topo.config
+[17:23:48] [Render thread/INFO]: topo (Valid) Creating config file: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\config\5.8\journeymap.topo.config
+[17:23:48] [Render thread/INFO]: webmap (FirstLoaded) Setting config file to version "5.8.5": journeymap.webmap.config
+[17:23:48] [Render thread/INFO]: webmap (Valid) Creating config file: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\config\5.8\journeymap.webmap.config
+[17:23:48] [Render thread/INFO]: waypoint (FirstLoaded) Setting config file to version "5.8.5": journeymap.waypoint.config
+[17:23:48] [Render thread/INFO]: waypoint (Valid) Creating config file: C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\config\5.8\journeymap.waypoint.config
+[17:23:48] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.8.5 Target: null
+[17:23:48] [Forge Version Check/INFO]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[17:23:48] [Forge Version Check/INFO]: [inventoryhud] Found status: BETA Current: 3.4.4 Target: null
+[17:23:48] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17:23:48] [Render thread/INFO]: initialize EXIT, elapsed count 1 avg 695,18ms
+[17:23:48] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 40.1.0 Target: null
+[17:23:48] [Forge Version Check/INFO]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[17:23:48] [Forge Version Check/INFO]: [corpse] Found status: UP_TO_DATE Current: 1.18.2-1.0.1 Target: null
+[17:23:50] [Worker-Main-17/WARN]: Exception loading blockstate definition: byg:blockstates/potted_hydrangea_bush.json: java.io.FileNotFoundException: byg:blockstates/potted_hydrangea_bush.json
+[17:23:50] [Worker-Main-17/WARN]: Exception loading blockstate definition: 'byg:blockstates/potted_hydrangea_bush.json' missing model for variant: 'byg:potted_hydrangea_bush#'
+[17:23:53] [Worker-Main-15/WARN]: Unused frames in sprite alexsmobs:item/hemolymph_sac: [3]
+[17:23:53] [Worker-Main-19/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[17:23:53] [Worker-Main-19/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[17:23:53] [Worker-Main-19/INFO]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[17:23:54] [Render thread/INFO]: BYG: Compostible Blocks Added!
+[17:23:54] [Render thread/INFO]: BYG: Added tillables!
+[17:23:54] [Render thread/INFO]: BYG: Added Flammables!
+[17:23:54] [Render thread/INFO]: BYG: Added strippable Blocks...
+[17:23:54] [Render thread/INFO]: BYG: "Load Complete" Event Complete!
+[17:23:54] [Render thread/INFO]: Journeymap PostInit
+[17:23:54] [Render thread/INFO]: Preloaded theme textures: 73
+[17:23:54] [Render thread/INFO]: postInitialize EXIT, elapsed count 1 avg 252,53ms
+[17:23:55] [Render thread/WARN]: Skipped language file: creativecore:lang/es_es.json (com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 6 column 6 path $.gui.add)
+[17:23:55] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Arctis 5 Game)
+[17:23:55] [Render thread/INFO]: Sound engine started
+[17:23:55] [Render thread/INFO]: Resetting client caches
+[17:23:55] [Render thread/INFO]: Resetting common caches
+[17:23:55] [Render thread/INFO]: Created: 64x64x0 chiselsandbits:textures/atlas/icons.png-atlas
+[17:23:55] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[17:23:55] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[17:23:55] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[17:23:55] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[17:23:55] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[17:23:55] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[17:23:55] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[17:23:56] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[17:23:56] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[17:23:56] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[17:23:56] [Render thread/INFO]: Created: 256x128x0 jei:textures/atlas/gui.png-atlas
+[17:23:57] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:24:08] [Render thread/INFO]: Connecting to tacoarepa.serv.gs, 25565
+[17:24:10] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[17:24:10] [Netty Client IO #1/INFO]: Loading JourneyMap Forge Configs
+[17:24:10] [Netty Client IO #1/INFO]: Loading "Easier Sleeping" Server Config
+[17:24:10] [Netty Client IO #1/INFO]: [sleep_percent] = 50
+[17:24:10] [Netty Client IO #1/INFO]: [sleep_message] = is now in bed.
+[17:24:10] [Netty Client IO #1/INFO]: [wake_message] = stood up.
+[17:24:10] [Netty Client IO #1/INFO]: [morning_message] = Good Morning
+[17:24:10] [Netty Client IO #1/INFO]: [dimensions] = [minecraft:overworld]
+[17:24:10] [Netty Client IO #1/INFO]: [dimension_list_type] = SLEEP_ACTIVE
+[17:24:10] [Netty Client IO #1/INFO]: "Easier Sleeping" Server Config loaded
+[17:24:10] [Netty Client IO #1/INFO]: Connected to a modded server.
+[17:24:11] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:24:11] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedInEvent
+[17:24:11] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[17:24:11] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[17:24:12] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[17:24:12] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[17:24:12] [Render thread/INFO]: Starting JEI...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:minecraft ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:minecraft took 1.281 ms
+[17:24:12] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: farmersdelight:jei_plugin took 3.800 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: trashslot:trashslot ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: trashslot:trashslot took 3.200 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jade:main ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jade:main took 2.800 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:debug ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:debug took 2.700 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:forge ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:forge took 3.100 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: sophisticatedcore:default ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: sophisticatedcore:default took 2.700 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: sophisticatedbackpacks:default ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: sophisticatedbackpacks:default took 119.4 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: chiselsandbits:jei ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: chiselsandbits:jei took 2.900 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: corpse:corpse ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: corpse:corpse took 2.700 ?s
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:internal ...
+[17:24:12] [Render thread/INFO]: Registering item subtypes: jei:internal took 4.400 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:minecraft took 8.400 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: farmersdelight:jei_plugin took 5.000 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: trashslot:trashslot ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: trashslot:trashslot took 5.400 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jade:main ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jade:main took 4.300 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:debug ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:debug took 219.4 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:forge ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:forge took 2.800 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: sophisticatedcore:default ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: sophisticatedcore:default took 2.500 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: sophisticatedbackpacks:default ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: sophisticatedbackpacks:default took 2.500 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: chiselsandbits:jei ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: chiselsandbits:jei took 2.800 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: corpse:corpse ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: corpse:corpse took 2.400 ?s
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:internal ...
+[17:24:12] [Render thread/INFO]: Registering fluid subtypes: jei:internal took 2.400 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:minecraft ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:minecraft took 562.2 ms
+[17:24:12] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: farmersdelight:jei_plugin took 4.300 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: trashslot:trashslot ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: trashslot:trashslot took 2.400 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: jade:main ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: jade:main took 2.200 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:debug ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:debug took 35.20 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:forge ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:forge took 5.026 ms
+[17:24:12] [Render thread/INFO]: Registering ingredients: sophisticatedcore:default ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: sophisticatedcore:default took 3.100 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: sophisticatedbackpacks:default ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: sophisticatedbackpacks:default took 3.100 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: chiselsandbits:jei ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: chiselsandbits:jei took 3.200 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: corpse:corpse ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: corpse:corpse took 2.700 ?s
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:internal ...
+[17:24:12] [Render thread/INFO]: Registering ingredients: jei:internal took 2.400 ?s
+[17:24:12] [Render thread/INFO]: Building ingredient list...
+[17:24:12] [Render thread/INFO]: Building ingredient list took 4.474 ms
+[17:24:12] [Render thread/INFO]: Building ingredient filter...
+[17:24:12] [Render thread/INFO]: Adding 2959 ingredients
+[17:24:13] [Render thread/INFO]: Added 2959 ingredients
+[17:24:13] [Render thread/INFO]: Building ingredient filter took 140.1 ms
+[17:24:13] [Render thread/INFO]: Building bookmarks...
+[17:24:13] [Render thread/INFO]: Building bookmarks took 2.681 ms
+[17:24:13] [Render thread/INFO]: Registering categories: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Registering categories: jei:minecraft took 11.11 ms
+[17:24:13] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Registering categories: farmersdelight:jei_plugin took 3.540 ms
+[17:24:13] [Render thread/INFO]: Registering categories: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Registering categories: trashslot:trashslot took 3.600 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: jade:main ...
+[17:24:13] [Render thread/INFO]: Registering categories: jade:main took 2.700 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: jei:debug ...
+[17:24:13] [Render thread/INFO]: Registering categories: jei:debug took 7.200 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: jei:forge ...
+[17:24:13] [Render thread/INFO]: Registering categories: jei:forge took 3.600 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Registering categories: sophisticatedcore:default took 2.400 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Registering categories: sophisticatedbackpacks:default took 2.300 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: Registering categories: chiselsandbits:jei took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Registering categories: corpse:corpse took 2.300 ?s
+[17:24:13] [Render thread/INFO]: Registering categories: jei:internal ...
+[17:24:13] [Render thread/INFO]: Registering categories: jei:internal took 700.6 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:minecraft took 1.258 ms
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: farmersdelight:jei_plugin took 3.500 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: trashslot:trashslot took 2.400 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jade:main ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jade:main took 6.200 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:debug ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:debug took 2.700 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:forge ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:forge took 2.300 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedcore:default took 2.300 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: sophisticatedbackpacks:default took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: chiselsandbits:jei took 2.100 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: corpse:corpse took 3.800 ?s
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:internal ...
+[17:24:13] [Render thread/INFO]: Registering vanilla category extensions: jei:internal took 3.800 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:minecraft took 227.6 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: farmersdelight:jei_plugin took 44.00 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: trashslot:trashslot took 4.200 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jade:main ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jade:main took 3.300 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:debug ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:debug took 8.200 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:forge ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:forge took 4.000 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: sophisticatedcore:default took 3.300 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: sophisticatedbackpacks:default took 22.90 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: chiselsandbits:jei took 3.600 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: corpse:corpse took 3.200 ?s
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:internal ...
+[17:24:13] [Render thread/INFO]: Registering recipe catalysts: jei:internal took 3.300 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:minecraft took 8.600 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: farmersdelight:jei_plugin took 2.600 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: trashslot:trashslot took 2.400 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jade:main ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jade:main took 2.300 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:debug ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:debug took 2.100 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:forge ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:forge took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: sophisticatedcore:default took 2.100 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: sophisticatedbackpacks:default took 2.300 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: chiselsandbits:jei took 2.100 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: corpse:corpse took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:internal ...
+[17:24:13] [Render thread/INFO]: Registering advanced plugins: jei:internal took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Building recipe registry...
+[17:24:13] [Render thread/INFO]: Building recipe registry took 6.741 ms
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:minecraft took 112.3 ms
+[17:24:13] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Registering recipes: farmersdelight:jei_plugin took 13.60 ms
+[17:24:13] [Render thread/INFO]: Registering recipes: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Registering recipes: trashslot:trashslot took 4.300 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes: jade:main ...
+[17:24:13] [Render thread/INFO]: Registering recipes: jade:main took 11.00 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:debug ...
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:debug took 10.10 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:forge ...
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:forge took 34.12 ms
+[17:24:13] [Render thread/INFO]: Registering recipes: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Registering recipes: sophisticatedcore:default took 1.898 ms
+[17:24:13] [Render thread/INFO]: Registering recipes: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Registering recipes: sophisticatedbackpacks:default took 2.634 ms
+[17:24:13] [Render thread/INFO]: Registering recipes: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: Registering recipes: chiselsandbits:jei took 2.800 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Registering recipes: corpse:corpse took 2.400 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:internal ...
+[17:24:13] [Render thread/INFO]: Registering recipes: jei:internal took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:minecraft took 1.831 ms
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: farmersdelight:jei_plugin took 11.20 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: trashslot:trashslot took 4.400 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jade:main ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jade:main took 4.400 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:debug took 4.400 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:forge took 4.600 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedcore:default took 4.700 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: sophisticatedbackpacks:default took 1.336 ms
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: chiselsandbits:jei took 4.000 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: corpse:corpse took 4.800 ?s
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal ...
+[17:24:13] [Render thread/INFO]: Registering recipes transfer handlers: jei:internal took 4.800 ?s
+[17:24:13] [Render thread/INFO]: Building runtime...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:minecraft took 1.273 ms
+[17:24:13] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: farmersdelight:jei_plugin took 13.60 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: trashslot:trashslot took 241.8 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jade:main ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jade:main took 3.300 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:debug ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:debug took 5.800 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:forge ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:forge took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: sophisticatedcore:default took 2.600 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: sophisticatedbackpacks:default took 839.2 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: chiselsandbits:jei took 2.600 ?s
+[17:24:13] [Render thread/INFO]: Registering gui handlers: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: corpse:corpse took 1.677 ms
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:internal ...
+[17:24:13] [Render thread/INFO]: Registering gui handlers: jei:internal took 1.935 ms
+[17:24:13] [Render thread/INFO]: Building runtime took 26.30 ms
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:minecraft ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:minecraft took 9.300 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: farmersdelight:jei_plugin took 4.400 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: trashslot:trashslot ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: trashslot:trashslot took 2.400 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: jade:main ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: jade:main took 3.300 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:debug ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:debug took 6.600 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:forge ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:forge took 2.200 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: sophisticatedcore:default ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: sophisticatedcore:default took 2.300 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: sophisticatedbackpacks:default ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: sophisticatedbackpacks:default took 2.000 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: chiselsandbits:jei ...
+[17:24:13] [Render thread/INFO]: JEI Runtime is now available.
+[17:24:13] [Render thread/INFO]: Injecting bits into JEI.
+[17:24:13] [Render thread/INFO]: Ingredients are being added at runtime: 749 net.minecraft.world.item.ItemStack
+[17:24:13] [Render thread/INFO]: Sending Runtime: chiselsandbits:jei took 48.41 ms
+[17:24:13] [Render thread/INFO]: Sending Runtime: corpse:corpse ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: corpse:corpse took 4.700 ?s
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:internal ...
+[17:24:13] [Render thread/INFO]: Sending Runtime: jei:internal took 3.900 ?s
+[17:24:13] [Render thread/INFO]: Starting JEI took 1.067 s
+[17:24:13] [Render thread/INFO]: World UID is set to: e909fa39-df1b-4154-a555-90b9aa2edd4b
+[17:24:13] [Render thread/INFO]: Received config from the server: {"minecraft:command_block":true}
+[17:24:13] [Render thread/INFO]: Loaded 20 advancements
+[17:24:14] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:24:14] [Render thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:24:14] [Render thread/INFO]: Loaded 0 waypoints from C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\data\mp\Servidor~de~Minecraft_e909fa39~df1b~4154~a555~90b9aa2edd4b\waypoints
+[17:24:14] [Render thread/INFO]: Mapping started in C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\data\mp\Servidor~de~Minecraft_e909fa39~df1b~4154~a555~90b9aa2edd4b\overworld. Memory: 2080MB total, 809MB free 
+[17:24:14] [Render thread/INFO]: [CHAT] §eJourneyMap:§f Presione [§bJ§f]
+[17:24:14] [Render thread/INFO]: 
+[17:24:33] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[17:24:33] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[17:24:33] [Render thread/INFO]: Stopping JEI
+[17:24:33] [Render thread/INFO]: Mapping halted in C:\Users\jeymar.vega\AppData\Roaming\.minecraft\journeymap\data\mp\Servidor~de~Minecraft_e909fa39~df1b~4154~a555~90b9aa2edd4b\minecraft:overworld
+[17:24:35] [Render thread/INFO]: World ID has been reset.
+[17:24:35] [Render thread/INFO]: World UID is set to: null
+[17:24:37] [Render thread/INFO]: Stopping!
